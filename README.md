@@ -42,4 +42,5 @@ It provides real-time market data, AI-driven stock analysis, market sentiment, a
 ---
 
 ## 📂 Project Structure
+New Features Coming Soon
 
